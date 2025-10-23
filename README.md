@@ -1,6 +1,9 @@
 # CCRNFLRL_FINALPROJECT
 This repository contains the implementation of a reinforcement learning project for COM221 class. The project aims to develop a model that trains an agent in a Flappy Bird environment.
-paper: https://docs.google.com/document/d/1WXXv8CaucmfGqLvCreipgK94XnGlyUJc9kIKjVxv79U/edit?tab=t.0
+
+# FINAL PAPER
+https://docs.google.com/document/d/1WXXv8CaucmfGqLvCreipgK94XnGlyUJc9kIKjVxv79U/edit?tab=t.0
+
 # 🐦 Flappy Bird - Dueling Double DQN (State-Based)
 
 A reinforcement learning project that trains an AI agent to play **Flappy Bird** using a **Dueling Double Deep Q-Network (DQN)** architecture.  
